@@ -1,1 +1,0 @@
-print("Hello World! form Song Jihun notebook version")
